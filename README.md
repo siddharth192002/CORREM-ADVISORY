@@ -2,8 +2,12 @@
 
 A premium, full-stack web application designed to parse official HDFC Bank PDF statements, validate balance chain integrity, categorize transactions using keyword rules, detect recurring monthly flows (Salaries & EMIs), and generate beautifully styled 3-sheet Excel reports alongside an interactive browser dashboard.
 
----
+## 🚀 Live Deployment Links
 
+- **Frontend (Vercel):** [https://correm-advisory-zi5e.vercel.app](https://correm-advisory-zi5e.vercel.app/)
+- **Backend API (Render):** [https://correm-advisory-v3r7.onrender.com](https://correm-advisory-v3r7.onrender.com/)
+
+---
 ## 🛠️ Technology Stack
 
 - **Frontend**: ReactJS, Vite, Tailwind CSS (v3), Recharts, Lucide Icons, Axios.
